@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I'm Kodeka
+# 👋 Hey, I'm Dokta
 
 ### Building Open Source Tools for Self-Hosting & Deployment
 
@@ -23,7 +23,7 @@ Currently working on a modern deployment platform focused on simplicity and self
 ## ⚙️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,vue,nuxt,nextjs,php,laravel,docker,nginx,linux,postgres,mysql,redis,mongodb,github,gitlab,cloudflare" />
+<img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,vue,nuxt,nextjs,,docker,nginx,linux,postgres,mysql,redis,mongodb,github,gitlab,cloudflare" />
 </p>
 
 ## 🎯 Current Mission
@@ -72,4 +72,4 @@ Deploy anywhere.
 Own your infrastructure.
 
 ---
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=kodekateam&label=Profile%20views&color=0e75b6&style=flat" alt="kodekateam" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=DoktainerApp&label=Profile%20views&color=0e75b6&style=flat" alt="DoktainerApp" /> </p>
