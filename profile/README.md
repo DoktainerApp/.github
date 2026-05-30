@@ -20,10 +20,16 @@ My interests include:
 
 Currently working on a modern deployment platform focused on simplicity and self-hosting.
 
-## ⚙️ Tech Stack
+## ⚙️ Main Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,vue,nuxt,nextjs,,docker,nginx,linux,postgres,mysql,redis,mongodb,github,gitlab,cloudflare" />
+<img src="https://skillicons.dev/icons?i=ts,js,nextjs,docker,postgres,redis" />
+</p>
+
+## ⚙️ Other Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,linux,postgres,mysql,redis,mongodb,github,gitlab,cloudflare" />
 </p>
 
 ## 🎯 Current Mission
