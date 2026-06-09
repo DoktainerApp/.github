@@ -23,7 +23,7 @@ Currently working on a modern deployment platform focused on simplicity and self
 ## ⚙️ Main Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=ts,js,nextjs,docker,postgres,redis" />
+<img src="https://skillicons.dev/icons?i=ts,js,nextjs" />
 </p>
 
 ## ⚙️ Other Stack
